@@ -1,2 +1,2 @@
 # hexlet-php
-My first repo on github
+Мой первый проект на Хекслете
